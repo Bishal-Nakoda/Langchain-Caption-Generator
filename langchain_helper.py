@@ -1,5 +1,5 @@
 from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain, SimpleSequentialChain, SequentialChain
+from langchain.chains import LLMChain
 from langchain_ollama.llms import OllamaLLM
 
 def generate(caption):
