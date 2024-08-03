@@ -16,5 +16,13 @@ After pulling the repository, run this command
 
     streamlit run main.py
 
+Reference Links:
+
+  https://ollama.com/library/llama3.1
+  
+  https://python.langchain.com/v0.2/docs/introduction/
+  
+  https://docs.streamlit.io/get-started/tutorials/create-an-app
+
 Screenshots:
 ![image](https://github.com/user-attachments/assets/2fedca59-d95d-4710-badb-75331e330a54)
